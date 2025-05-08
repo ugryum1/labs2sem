@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprintedEditions.a CMakeFiles/printedEditions.dir/printedEditions.cpp.o
+/usr/bin/ranlib libprintedEditions.a

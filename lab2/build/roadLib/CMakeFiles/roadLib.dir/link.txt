@@ -1,0 +1,2 @@
+/usr/bin/ar qc libroadLib.a CMakeFiles/roadLib.dir/roadLib.cpp.o
+/usr/bin/ranlib libroadLib.a

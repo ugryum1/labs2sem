@@ -1,0 +1,6 @@
+/home/ugryum/labs2sem/lab5/build/CMakeFiles/lab5.dir
+/home/ugryum/labs2sem/lab5/build/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab5/build/CMakeFiles/rebuild_cache.dir
+/home/ugryum/labs2sem/lab5/build/containers/CMakeFiles/containers.dir
+/home/ugryum/labs2sem/lab5/build/containers/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab5/build/containers/CMakeFiles/rebuild_cache.dir

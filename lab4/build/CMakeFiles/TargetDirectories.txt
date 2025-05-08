@@ -1,0 +1,6 @@
+/home/ugryum/labs2sem/lab4/build/CMakeFiles/lab4.dir
+/home/ugryum/labs2sem/lab4/build/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab4/build/CMakeFiles/rebuild_cache.dir
+/home/ugryum/labs2sem/lab4/build/MyStackLib/CMakeFiles/MyStackLib.dir
+/home/ugryum/labs2sem/lab4/build/MyStackLib/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab4/build/MyStackLib/CMakeFiles/rebuild_cache.dir

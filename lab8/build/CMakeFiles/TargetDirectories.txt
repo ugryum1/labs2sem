@@ -1,0 +1,3 @@
+/home/ugryum/labs2sem/lab8/build/CMakeFiles/lab8.dir
+/home/ugryum/labs2sem/lab8/build/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab8/build/CMakeFiles/rebuild_cache.dir

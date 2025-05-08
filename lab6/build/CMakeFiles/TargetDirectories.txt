@@ -1,0 +1,9 @@
+/home/ugryum/labs2sem/lab6/build/CMakeFiles/lab6.dir
+/home/ugryum/labs2sem/lab6/build/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab6/build/CMakeFiles/rebuild_cache.dir
+/home/ugryum/labs2sem/lab6/build/containers/CMakeFiles/containers.dir
+/home/ugryum/labs2sem/lab6/build/containers/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab6/build/containers/CMakeFiles/rebuild_cache.dir
+/home/ugryum/labs2sem/lab6/build/polynom/CMakeFiles/polynom.dir
+/home/ugryum/labs2sem/lab6/build/polynom/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab6/build/polynom/CMakeFiles/rebuild_cache.dir

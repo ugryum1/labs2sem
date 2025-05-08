@@ -1,0 +1,9 @@
+/home/ugryum/labs2sem/lab1/build/CMakeFiles/lab1.dir
+/home/ugryum/labs2sem/lab1/build/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab1/build/CMakeFiles/rebuild_cache.dir
+/home/ugryum/labs2sem/lab1/build/mymath/CMakeFiles/mymath.dir
+/home/ugryum/labs2sem/lab1/build/mymath/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab1/build/mymath/CMakeFiles/rebuild_cache.dir
+/home/ugryum/labs2sem/lab1/build/myfact/CMakeFiles/myfact.dir
+/home/ugryum/labs2sem/lab1/build/myfact/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab1/build/myfact/CMakeFiles/rebuild_cache.dir

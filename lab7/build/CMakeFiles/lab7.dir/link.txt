@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab7.dir/main.cpp.o -o lab7  containers/libcontainers.a printedEditions/libprintedEditions.a 

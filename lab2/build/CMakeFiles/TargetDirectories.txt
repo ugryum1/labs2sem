@@ -1,0 +1,9 @@
+/home/ugryum/labs2sem/lab2/build/CMakeFiles/lab2.dir
+/home/ugryum/labs2sem/lab2/build/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab2/build/CMakeFiles/rebuild_cache.dir
+/home/ugryum/labs2sem/lab2/build/planetLib/CMakeFiles/planetLib.dir
+/home/ugryum/labs2sem/lab2/build/planetLib/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab2/build/planetLib/CMakeFiles/rebuild_cache.dir
+/home/ugryum/labs2sem/lab2/build/roadLib/CMakeFiles/roadLib.dir
+/home/ugryum/labs2sem/lab2/build/roadLib/CMakeFiles/edit_cache.dir
+/home/ugryum/labs2sem/lab2/build/roadLib/CMakeFiles/rebuild_cache.dir
